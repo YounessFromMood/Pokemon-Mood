@@ -1238,6 +1238,10 @@
     {
       "id": "MAPSEC_TEST",
       "name": "Boréal"
+    },
+    {
+      "id": "MAPSEC_SAINT_VERSITE",
+      "name": "Saint-Versité"
     }
   ]
 }

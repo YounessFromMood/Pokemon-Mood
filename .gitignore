@@ -1,5 +1,6 @@
 *.exe
 *.o
+*_rapport.txt
 *.i
 *.elf
 *.gba
